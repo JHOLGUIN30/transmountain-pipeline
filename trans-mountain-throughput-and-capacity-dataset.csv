@@ -1,0 +1,1219 @@
+Month,Year,Corporate Entity,Pipeline Name,Key Point,Latitude,Longitude,Direction of Flow,Trade Type,Product,Throughput (1000 m3/d),Nameplate Capacity (1000 m3/d),Available Capacity (1000 m3/d),Reason For Variance
+1,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,35,
+1,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,8,,35,
+1,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,13,,35,
+1,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,1,,35,
+1,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,15,,35,
+1,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,4,,35,
+1,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,35,
+2,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,36,
+2,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,8,,36,
+2,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,14,,36,
+2,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,2,,36,
+2,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,12,,36,
+2,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,3,,36,
+2,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,36,
+3,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,37,
+3,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,8,,37,
+3,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,13,,37,
+3,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,3,,37,
+3,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,13,,37,
+3,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,3,,37,
+3,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,37,
+4,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,35,Maintenance
+4,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,6,,35,Maintenance
+4,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,10,,35,Maintenance
+4,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,2,,35,Maintenance
+4,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,15,,35,Maintenance
+4,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,1,,35,Maintenance
+4,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,35,Maintenance
+5,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,29,
+5,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,8,,29,
+5,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,7,,29,
+5,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,2,,29,
+5,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,14,,29,
+5,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,0,,29,
+5,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,2,,29,
+6,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,36,
+6,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,8,,36,
+6,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,6,,36,
+6,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,1,,36,
+6,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,14,,36,
+6,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,6,,36,
+6,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,1,,36,
+7,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,37,Maintenance
+7,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,8,,37,Maintenance
+7,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,8,,37,Maintenance
+7,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,1,,37,Maintenance
+7,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,14,,37,Maintenance
+7,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,3,,37,Maintenance
+7,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,37,Maintenance
+8,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,37,
+8,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,9,,37,
+8,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,9,,37,
+8,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,2,,37,
+8,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,16,,37,
+8,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,2,,37,
+8,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,37,
+9,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,39,Maintenance; carryover
+9,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,8,,39,Maintenance; carryover
+9,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,10,,39,Maintenance; carryover
+9,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,1,,39,Maintenance; carryover
+9,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,16,,39,Maintenance; carryover
+9,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,4,,39,Maintenance; carryover
+9,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,1,,39,Maintenance; carryover
+10,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,35,Maintenance
+10,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,7,,35,Maintenance
+10,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,9,,35,Maintenance
+10,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,1,,35,Maintenance
+10,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,11,,35,Maintenance
+10,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,3,,35,Maintenance
+10,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,3,,35,Maintenance
+11,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,37,Maintenance; carryover
+11,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,5,,37,Maintenance; carryover
+11,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,14,,37,Maintenance; carryover
+11,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,1,,37,Maintenance; carryover
+11,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,10,,37,Maintenance; carryover
+11,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,3,,37,Maintenance; carryover
+11,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,5,,37,Maintenance; carryover
+12,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,30,Maintenance
+12,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,7,,30,Maintenance
+12,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,12,,30,Maintenance
+12,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,2,,30,Maintenance
+12,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,12,,30,Maintenance
+12,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,2,,30,Maintenance
+12,2006,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,1,,30,Maintenance
+1,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,36,Maintenance
+1,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,8,,36,Maintenance
+1,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,10,,36,Maintenance
+1,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,3,,36,Maintenance
+1,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,12,,36,Maintenance
+1,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,3,,36,Maintenance
+1,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,1,,36,Maintenance
+2,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,35,Maintenance
+2,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,5,,35,Maintenance
+2,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,14,,35,Maintenance
+2,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,4,,35,Maintenance
+2,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,13,,35,Maintenance
+2,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,0,,35,Maintenance
+2,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,1,,35,Maintenance
+3,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,35,Maintenance
+3,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,8,,35,Maintenance
+3,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,9,,35,Maintenance
+3,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,4,,35,Maintenance
+3,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,9,,35,Maintenance
+3,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,2,,35,Maintenance
+3,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,1,,35,Maintenance
+4,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,40,Maintenance; carryover
+4,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,8,,40,Maintenance; carryover
+4,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,12,,40,Maintenance; carryover
+4,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,3,,40,Maintenance; carryover
+4,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,15,,40,Maintenance; carryover
+4,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,6,,40,Maintenance; carryover
+4,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,1,,40,Maintenance; carryover
+5,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,42,
+5,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,7,,42,
+5,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,12,,42,
+5,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,1,,42,
+5,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,16,,42,
+5,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,6,,42,
+5,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,1,,42,
+6,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,42,
+6,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,7,,42,
+6,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,8,,42,
+6,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,2,,42,
+6,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,16,,42,
+6,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,10,,42,
+6,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,1,,42,
+7,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,42,
+7,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,8,,42,
+7,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,10,,42,
+7,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,2,,42,
+7,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,15,,42,
+7,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,8,,42,
+7,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,1,,42,
+8,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,43,
+8,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,8,,43,
+8,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,10,,43,
+8,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,4,,43,
+8,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,15,,43,
+8,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,4,,43,
+8,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,1,,43,
+9,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,42,
+9,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,8,,42,
+9,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,9,,42,
+9,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,5,,42,
+9,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,16,,42,
+9,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,7,,42,
+9,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,1,,42,
+10,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,39,Maintenance
+10,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,8,,39,Maintenance
+10,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,10,,39,Maintenance
+10,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,5,,39,Maintenance
+10,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,12,,39,Maintenance
+10,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,5,,39,Maintenance
+10,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,1,,39,Maintenance
+11,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,43,
+11,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,6,,43,
+11,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,11,,43,
+11,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,5,,43,
+11,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,14,,43,
+11,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,6,,43,
+11,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,1,,43,
+12,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,40,Maintenance
+12,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,7,,40,Maintenance
+12,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,10,,40,Maintenance
+12,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,3,,40,Maintenance
+12,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,14,,40,Maintenance
+12,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,7,,40,Maintenance
+12,2007,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,1,,40,Maintenance
+1,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,40,Carryover
+1,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,7,,40,Carryover
+1,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,10,,40,Carryover
+1,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,7,,40,Carryover
+1,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,11,,40,Carryover
+1,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,4,,40,Carryover
+1,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,40,Carryover
+2,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,42,
+2,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,7,,42,
+2,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,6,,42,
+2,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,6,,42,
+2,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,11,,42,
+2,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,8,,42,
+2,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,42,
+3,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,33,Maintenance
+3,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,0,,33,Maintenance
+3,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,5,,33,Maintenance
+3,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,5,,33,Maintenance
+3,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,13,,33,Maintenance
+3,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,3,,33,Maintenance
+3,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,33,Maintenance
+4,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,40,Maintenance
+4,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,6,,40,Maintenance
+4,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,6,,40,Maintenance
+4,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,8,,40,Maintenance
+4,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,12,,40,Maintenance
+4,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,3,,40,Maintenance
+4,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,1,,40,Maintenance
+5,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,42,
+5,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,8,,42,
+5,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,9,,42,
+5,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,5,,42,
+5,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,13,,42,
+5,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,3,,42,
+5,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,42,
+6,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,41,
+6,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,6,,41,
+6,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,10,,41,
+6,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,4,,41,
+6,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,12,,41,
+6,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,8,,41,
+6,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,41,
+7,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,38,
+7,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,6,,38,
+7,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,6,,38,
+7,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,3,,38,
+7,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,15,,38,
+7,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,2,,38,
+7,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,2,,38,
+8,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,36,
+8,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,9,,36,
+8,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,5,,36,
+8,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,2,,36,
+8,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,17,,36,
+8,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,2,,36,
+8,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,4,,36,
+9,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,42,
+9,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,8,,42,
+9,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,3,,42,
+9,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,1,,42,
+9,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,20,,42,
+9,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,8,,42,
+9,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,5,,42,
+10,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,40,Maintenance
+10,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,4,,40,Maintenance
+10,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,3,,40,Maintenance
+10,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,2,,40,Maintenance
+10,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,20,,40,Maintenance
+10,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,4,,40,Maintenance
+10,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,4,,40,Maintenance
+11,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,49,
+11,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,4,,49,
+11,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,6,,49,
+11,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,1,,49,
+11,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,21,,49,
+11,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,5,,49,
+11,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,9,,49,
+12,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,40,
+12,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,6,,40,
+12,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,12,,40,
+12,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,1,,40,
+12,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,15,,40,
+12,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,6,,40,
+12,2008,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,40,
+1,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,28,
+1,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,8,,28,
+1,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,8,,28,
+1,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,28,
+1,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,9,,28,
+1,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,5,,28,
+1,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,1,,28,
+2,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,39,
+2,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,6,,39,
+2,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,9,,39,
+2,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,39,
+2,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,12,,39,
+2,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,8,,39,
+2,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,1,,39,
+3,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,48,
+3,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,8,,48,
+3,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,9,,48,
+3,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,48,
+3,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,14,,48,
+3,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,17,,48,
+3,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,4,,48,
+4,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,36,
+4,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,8,,36,
+4,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,8,,36,
+4,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,36,
+4,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,13,,36,
+4,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,10,,36,
+4,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,36,
+5,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,32,
+5,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,9,,32,
+5,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,8,,32,
+5,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,32,
+5,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,9,,32,
+5,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,15,,32,
+5,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,2,,32,
+6,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,46,
+6,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,9,,46,
+6,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,5,,46,
+6,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,46,
+6,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,16,,46,
+6,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,18,,46,
+6,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,46,
+7,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,50,
+7,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,8,,50,
+7,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,7,,50,
+7,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,50,
+7,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,22,,50,
+7,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,9,,50,
+7,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,2,,50,
+8,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,53,
+8,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,8,,53,
+8,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,7,,53,
+8,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,53,
+8,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,23,,53,
+8,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,9,,53,
+8,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,1,,53,
+9,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,50,Maintenance
+9,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,9,,50,Maintenance
+9,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,8,,50,Maintenance
+9,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,50,Maintenance
+9,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,21,,50,Maintenance
+9,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,11,,50,Maintenance
+9,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,50,Maintenance
+10,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,47,Carryover
+10,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,7,,47,Carryover
+10,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,9,,47,Carryover
+10,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,1,,47,Carryover
+10,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,19,,47,Carryover
+10,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,7,,47,Carryover
+10,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,47,Carryover
+11,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,50,
+11,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,7,,50,
+11,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,12,,50,
+11,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,1,,50,
+11,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,20,,50,
+11,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,11,,50,
+11,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,50,
+12,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,48,
+12,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,8,,48,
+12,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,11,,48,
+12,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,48,
+12,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,18,,48,
+12,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,12,,48,
+12,2009,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,48,
+1,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,46,Maintenance
+1,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,7,,46,Maintenance
+1,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,8,,46,Maintenance
+1,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,1,,46,Maintenance
+1,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,16,,46,Maintenance
+1,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,3,,46,Maintenance
+1,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,46,Maintenance
+2,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,47,
+2,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,7,,47,
+2,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,8,,47,
+2,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,47,
+2,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,22,,47,
+2,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,14,,47,
+2,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,1,,47,
+3,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,45,
+3,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,8,,45,
+3,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,7,,45,
+3,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,45,
+3,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,20,,45,
+3,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,5,,45,
+3,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,45,
+4,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,44,
+4,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,4,,44,
+4,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,4,,44,
+4,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,44,
+4,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,21,,44,
+4,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,19,,44,
+4,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,4,,44,
+5,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,45,
+5,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,3,,45,
+5,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,8,,45,
+5,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,45,
+5,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,16,,45,
+5,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,18,,45,
+5,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,2,,45,
+6,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,50,
+6,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,7,,50,
+6,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,5,,50,
+6,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,50,
+6,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,18,,50,
+6,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,18,,50,
+6,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,3,,50,
+7,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,50,
+7,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,8,,50,
+7,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,9,,50,
+7,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,50,
+7,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,16,,50,
+7,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,14,,50,
+7,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,50,
+8,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,52,
+8,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,8,,52,
+8,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,10,,52,
+8,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,52,
+8,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,18,,52,
+8,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,11,,52,
+8,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,52,
+9,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,45,Carryover
+9,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,4,,45,Carryover
+9,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,6,,45,Carryover
+9,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,45,Carryover
+9,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,27,,45,Carryover
+9,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,10,,45,Carryover
+9,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,45,Carryover
+10,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,49,
+10,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,3,,49,
+10,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,7,,49,
+10,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,2,,49,
+10,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,24,,49,
+10,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,13,,49,
+10,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,49,
+11,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,50,
+11,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,8,,50,
+11,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,8,,50,
+11,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,1,,50,
+11,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,25,,50,
+11,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,8,,50,
+11,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,1,,50,
+12,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,47,Carryover
+12,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,8,,47,Carryover
+12,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,9,,47,Carryover
+12,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,1,,47,Carryover
+12,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,25,,47,Carryover
+12,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,9,,47,Carryover
+12,2010,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,47,Carryover
+1,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,46,Carryover
+1,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,8,,46,Carryover
+1,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,8,,46,Carryover
+1,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,2,,46,Carryover
+1,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,21,,46,Carryover
+1,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,7,,46,Carryover
+1,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,46,Carryover
+2,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,44,Maintenance; carryover
+2,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,7,,44,Maintenance; carryover
+2,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,7,,44,Maintenance; carryover
+2,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,1,,44,Maintenance; carryover
+2,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,23,,44,Maintenance; carryover
+2,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,9,,44,Maintenance; carryover
+2,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,44,Maintenance; carryover
+3,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,48,
+3,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,7,,48,
+3,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,6,,48,
+3,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,48,
+3,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,28,,48,
+3,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,7,,48,
+3,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,48,
+4,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,49,
+4,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,8,,49,
+4,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,4,,49,
+4,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,49,
+4,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,22,,49,
+4,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,6,,49,
+4,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,49,
+5,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,45,Maintenance
+5,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,8,,45,Maintenance
+5,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,5,,45,Maintenance
+5,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,45,Maintenance
+5,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,20,,45,Maintenance
+5,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,8,,45,Maintenance
+5,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,45,Maintenance
+6,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,38,Carryover
+6,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,7,,38,Carryover
+6,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,6,,38,Carryover
+6,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,38,Carryover
+6,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,22,,38,Carryover
+6,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,5,,38,Carryover
+6,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,38,Carryover
+7,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,41,
+7,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,7,,41,
+7,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,9,,41,
+7,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,41,
+7,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,19,,41,
+7,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,7,,41,
+7,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,41,
+8,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,42,
+8,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,7,,42,
+8,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,10,,42,
+8,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,42,
+8,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,21,,42,
+8,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,6,,42,
+8,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,42,
+9,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,43,
+9,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,7,,43,
+9,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,10,,43,
+9,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,43,
+9,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,21,,43,
+9,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,9,,43,
+9,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,43,
+10,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,45,Maintenance
+10,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,5,,45,Maintenance
+10,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,8,,45,Maintenance
+10,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,45,Maintenance
+10,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,22,,45,Maintenance
+10,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,4,,45,Maintenance
+10,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,45,Maintenance
+11,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,45,
+11,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,6,,45,
+11,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,8,,45,
+11,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,45,
+11,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,23,,45,
+11,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,7,,45,
+11,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,45,
+12,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,36,Maintenance; carryover
+12,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,7,,36,Maintenance; carryover
+12,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,8,,36,Maintenance; carryover
+12,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,36,Maintenance; carryover
+12,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,21,,36,Maintenance; carryover
+12,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,9,,36,Maintenance; carryover
+12,2011,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,36,Maintenance; carryover
+1,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,41,Pressure Restriction; heavy percentage
+1,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,7,,41,Pressure Restriction; heavy percentage
+1,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,9,,41,Pressure Restriction; heavy percentage
+1,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,3,,41,Pressure Restriction; heavy percentage
+1,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,20,,41,Pressure Restriction; heavy percentage
+1,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,3,,41,Pressure Restriction; heavy percentage
+1,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,41,Pressure Restriction; heavy percentage
+2,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,44,Pressure Restriction; heavy percentage
+2,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,8,,44,Pressure Restriction; heavy percentage
+2,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,11,,44,Pressure Restriction; heavy percentage
+2,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,2,,44,Pressure Restriction; heavy percentage
+2,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,20,,44,Pressure Restriction; heavy percentage
+2,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,7,,44,Pressure Restriction; heavy percentage
+2,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,1,,44,Pressure Restriction; heavy percentage
+3,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,43,Pressure Restriction; heavy percentage; maintenance
+3,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,8,,43,Pressure Restriction; heavy percentage; maintenance
+3,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,7,,43,Pressure Restriction; heavy percentage; maintenance
+3,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,43,Pressure Restriction; heavy percentage; maintenance
+3,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,19,,43,Pressure Restriction; heavy percentage; maintenance
+3,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,9,,43,Pressure Restriction; heavy percentage; maintenance
+3,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,43,Pressure Restriction; heavy percentage; maintenance
+4,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,47,Heavy percentage; maintenance
+4,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,9,,47,Heavy percentage; maintenance
+4,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,5,,47,Heavy percentage; maintenance
+4,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,1,,47,Heavy percentage; maintenance
+4,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,19,,47,Heavy percentage; maintenance
+4,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,12,,47,Heavy percentage; maintenance
+4,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,47,Heavy percentage; maintenance
+5,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,46,Heavy percentage
+5,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,8,,46,Heavy percentage
+5,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,7,,46,Heavy percentage
+5,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,1,,46,Heavy percentage
+5,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,20,,46,Heavy percentage
+5,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,10,,46,Heavy percentage
+5,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,4,,46,Heavy percentage
+6,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,46,Heavy percentage
+6,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,8,,46,Heavy percentage
+6,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,5,,46,Heavy percentage
+6,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,1,,46,Heavy percentage
+6,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,23,,46,Heavy percentage
+6,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,10,,46,Heavy percentage
+6,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,46,Heavy percentage
+7,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,45,Heavy percentage; maintenance
+7,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,8,,45,Heavy percentage; maintenance
+7,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,7,,45,Heavy percentage; maintenance
+7,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,1,,45,Heavy percentage; maintenance
+7,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,20,,45,Heavy percentage; maintenance
+7,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,11,,45,Heavy percentage; maintenance
+7,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,45,Heavy percentage; maintenance
+8,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,49,Heavy percentage; maintenance
+8,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,8,,49,Heavy percentage; maintenance
+8,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,9,,49,Heavy percentage; maintenance
+8,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,49,Heavy percentage; maintenance
+8,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,23,,49,Heavy percentage; maintenance
+8,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,6,,49,Heavy percentage; maintenance
+8,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,2,,49,Heavy percentage; maintenance
+9,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,46,Heavy percentage
+9,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,8,,46,Heavy percentage
+9,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,8,,46,Heavy percentage
+9,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,46,Heavy percentage
+9,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,24,,46,Heavy percentage
+9,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,9,,46,Heavy percentage
+9,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,2,,46,Heavy percentage
+10,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,42,Heavy percentage; maintenance
+10,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,6,,42,Heavy percentage; maintenance
+10,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,7,,42,Heavy percentage; maintenance
+10,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,42,Heavy percentage; maintenance
+10,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,23,,42,Heavy percentage; maintenance
+10,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,7,,42,Heavy percentage; maintenance
+10,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,1,,42,Heavy percentage; maintenance
+11,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,43,Heavy percentage; maintenance
+11,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,7,,43,Heavy percentage; maintenance
+11,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,7,,43,Heavy percentage; maintenance
+11,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,1,,43,Heavy percentage; maintenance
+11,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,19,,43,Heavy percentage; maintenance
+11,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,11,,43,Heavy percentage; maintenance
+11,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,43,Heavy percentage; maintenance
+12,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,44,Heavy percentage; carry over
+12,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,7,,44,Heavy percentage; carry over
+12,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,8,,44,Heavy percentage; carry over
+12,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,44,Heavy percentage; carry over
+12,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,21,,44,Heavy percentage; carry over
+12,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,10,,44,Heavy percentage; carry over
+12,2012,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,44,Heavy percentage; carry over
+1,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,45,Heavy percentage
+1,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,6,,45,Heavy percentage
+1,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,8,,45,Heavy percentage
+1,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,45,Heavy percentage
+1,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,20,,45,Heavy percentage
+1,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,10,,45,Heavy percentage
+1,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,1,,45,Heavy percentage
+2,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,45,Heavy percentage
+2,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,5,,45,Heavy percentage
+2,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,9,,45,Heavy percentage
+2,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,45,Heavy percentage
+2,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,24,,45,Heavy percentage
+2,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,11,,45,Heavy percentage
+2,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,45,Heavy percentage
+3,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,47,Heavy percentage
+3,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,3,,47,Heavy percentage
+3,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,8,,47,Heavy percentage
+3,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,47,Heavy percentage
+3,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,24,,47,Heavy percentage
+3,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,12,,47,Heavy percentage
+3,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,47,Heavy percentage
+4,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,47,Heavy percentage
+4,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,5,,47,Heavy percentage
+4,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,8,,47,Heavy percentage
+4,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,47,Heavy percentage
+4,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,25,,47,Heavy percentage
+4,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,10,,47,Heavy percentage
+4,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,47,Heavy percentage
+5,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,47,Heavy percentage; maintenance
+5,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,7,,47,Heavy percentage; maintenance
+5,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,5,,47,Heavy percentage; maintenance
+5,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,3,,47,Heavy percentage; maintenance
+5,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,26,,47,Heavy percentage; maintenance
+5,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,10,,47,Heavy percentage; maintenance
+5,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,47,Heavy percentage; maintenance
+6,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,49,Heavy percentage
+6,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,6,,49,Heavy percentage
+6,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,6,,49,Heavy percentage
+6,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,2,,49,Heavy percentage
+6,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,22,,49,Heavy percentage
+6,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,7,,49,Heavy percentage
+6,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,49,Heavy percentage
+7,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,33,Pressure Restriction; heavy percentage; maintenance; carryover
+7,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,6,,33,Pressure Restriction; heavy percentage; maintenance; carryover
+7,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,8,,33,Pressure Restriction; heavy percentage; maintenance; carryover
+7,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,1,,33,Pressure Restriction; heavy percentage; maintenance; carryover
+7,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,18,,33,Pressure Restriction; heavy percentage; maintenance; carryover
+7,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,8,,33,Pressure Restriction; heavy percentage; maintenance; carryover
+7,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,33,Pressure Restriction; heavy percentage; maintenance; carryover
+8,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,43,Pressure Restriction; heavy percentage; maintenance
+8,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,7,,43,Pressure Restriction; heavy percentage; maintenance
+8,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,8,,43,Pressure Restriction; heavy percentage; maintenance
+8,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,43,Pressure Restriction; heavy percentage; maintenance
+8,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,18,,43,Pressure Restriction; heavy percentage; maintenance
+8,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,8,,43,Pressure Restriction; heavy percentage; maintenance
+8,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,43,Pressure Restriction; heavy percentage; maintenance
+9,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,37,Pressure Restriction; heavy percentage; maintenance
+9,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,6,,37,Pressure Restriction; heavy percentage; maintenance
+9,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,10,,37,Pressure Restriction; heavy percentage; maintenance
+9,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,1,,37,Pressure Restriction; heavy percentage; maintenance
+9,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,18,,37,Pressure Restriction; heavy percentage; maintenance
+9,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,7,,37,Pressure Restriction; heavy percentage; maintenance
+9,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,37,Pressure Restriction; heavy percentage; maintenance
+10,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,38,Pressure Restriction; heavy percentage; maintenance
+10,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,5,,38,Pressure Restriction; heavy percentage; maintenance
+10,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,7,,38,Pressure Restriction; heavy percentage; maintenance
+10,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,38,Pressure Restriction; heavy percentage; maintenance
+10,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,17,,38,Pressure Restriction; heavy percentage; maintenance
+10,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,8,,38,Pressure Restriction; heavy percentage; maintenance
+10,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,2,,38,Pressure Restriction; heavy percentage; maintenance
+11,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,46,Pressure Restriction; heavy percentage
+11,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,7,,46,Pressure Restriction; heavy percentage
+11,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,8,,46,Pressure Restriction; heavy percentage
+11,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,1,,46,Pressure Restriction; heavy percentage
+11,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,18,,46,Pressure Restriction; heavy percentage
+11,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,7,,46,Pressure Restriction; heavy percentage
+11,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,46,Pressure Restriction; heavy percentage
+12,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,39,Pressure Restriction; heavy percentage; maintenance
+12,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,6,,39,Pressure Restriction; heavy percentage; maintenance
+12,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,9,,39,Pressure Restriction; heavy percentage; maintenance
+12,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,1,,39,Pressure Restriction; heavy percentage; maintenance
+12,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,19,,39,Pressure Restriction; heavy percentage; maintenance
+12,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,5,,39,Pressure Restriction; heavy percentage; maintenance
+12,2013,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,4,,39,Pressure Restriction; heavy percentage; maintenance
+1,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,40,Pressure Restriction; heavy percentage
+1,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,6,,40,Pressure Restriction; heavy percentage
+1,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,8,,40,Pressure Restriction; heavy percentage
+1,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,1,,40,Pressure Restriction; heavy percentage
+1,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,17,,40,Pressure Restriction; heavy percentage
+1,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,11,,40,Pressure Restriction; heavy percentage
+1,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,40,Pressure Restriction; heavy percentage
+2,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,43,Pressure Restriction; heavy percentage
+2,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,3,,43,Pressure Restriction; heavy percentage
+2,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,9,,43,Pressure Restriction; heavy percentage
+2,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,43,Pressure Restriction; heavy percentage
+2,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,22,,43,Pressure Restriction; heavy percentage
+2,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,7,,43,Pressure Restriction; heavy percentage
+2,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,43,Pressure Restriction; heavy percentage
+3,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,44,Pressure Restriction; heavy percentage
+3,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,6,,44,Pressure Restriction; heavy percentage
+3,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,9,,44,Pressure Restriction; heavy percentage
+3,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,1,,44,Pressure Restriction; heavy percentage
+3,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,21,,44,Pressure Restriction; heavy percentage
+3,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,9,,44,Pressure Restriction; heavy percentage
+3,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,2,,44,Pressure Restriction; heavy percentage
+4,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,46,Pressure Restriction; heavy percentage; maintenance
+4,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,6,,46,Pressure Restriction; heavy percentage; maintenance
+4,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,8,,46,Pressure Restriction; heavy percentage; maintenance
+4,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,1,,46,Pressure Restriction; heavy percentage; maintenance
+4,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,26,,46,Pressure Restriction; heavy percentage; maintenance
+4,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,2,,46,Pressure Restriction; heavy percentage; maintenance
+4,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,4,,46,Pressure Restriction; heavy percentage; maintenance
+5,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,45,Pressure Restriction; heavy percentage
+5,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,6,,45,Pressure Restriction; heavy percentage
+5,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,8,,45,Pressure Restriction; heavy percentage
+5,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,1,,45,Pressure Restriction; heavy percentage
+5,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,23,,45,Pressure Restriction; heavy percentage
+5,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,10,,45,Pressure Restriction; heavy percentage
+5,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,45,Pressure Restriction; heavy percentage
+6,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,45,Pressure Restriction; heavy percentage
+6,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,7,,45,Pressure Restriction; heavy percentage
+6,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,9,,45,Pressure Restriction; heavy percentage
+6,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,2,,45,Pressure Restriction; heavy percentage
+6,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,19,,45,Pressure Restriction; heavy percentage
+6,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,9,,45,Pressure Restriction; heavy percentage
+6,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,1,,45,Pressure Restriction; heavy percentage
+7,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,45,Pressure Restriction; heavy percentage; maintenance
+7,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,6,,45,Pressure Restriction; heavy percentage; maintenance
+7,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,8,,45,Pressure Restriction; heavy percentage; maintenance
+7,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,2,,45,Pressure Restriction; heavy percentage; maintenance
+7,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,21,,45,Pressure Restriction; heavy percentage; maintenance
+7,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,10,,45,Pressure Restriction; heavy percentage; maintenance
+7,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,2,,45,Pressure Restriction; heavy percentage; maintenance
+8,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,46,Pressure Restriction; heavy percentage
+8,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,7,,46,Pressure Restriction; heavy percentage
+8,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,9,,46,Pressure Restriction; heavy percentage
+8,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,3,,46,Pressure Restriction; heavy percentage
+8,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,21,,46,Pressure Restriction; heavy percentage
+8,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,8,,46,Pressure Restriction; heavy percentage
+8,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,46,Pressure Restriction; heavy percentage
+9,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,44,Heavy percentage; maintenance
+9,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,7,,44,Heavy percentage; maintenance
+9,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,7,,44,Heavy percentage; maintenance
+9,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,3,,44,Heavy percentage; maintenance
+9,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,21,,44,Heavy percentage; maintenance
+9,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,8,,44,Heavy percentage; maintenance
+9,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,44,Heavy percentage; maintenance
+10,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,46,Heavy percentage; maintenance
+10,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,7,,46,Heavy percentage; maintenance
+10,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,8,,46,Heavy percentage; maintenance
+10,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,4,,46,Heavy percentage; maintenance
+10,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,21,,46,Heavy percentage; maintenance
+10,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,5,,46,Heavy percentage; maintenance
+10,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,46,Heavy percentage; maintenance
+11,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,46,Heavy percentage; maintenance
+11,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,7,,46,Heavy percentage; maintenance
+11,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,10,,46,Heavy percentage; maintenance
+11,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,1,,46,Heavy percentage; maintenance
+11,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,21,,46,Heavy percentage; maintenance
+11,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,6,,46,Heavy percentage; maintenance
+11,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,2,,46,Heavy percentage; maintenance
+12,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,50,Heavy percentage
+12,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,7,,50,Heavy percentage
+12,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,9,,50,Heavy percentage
+12,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,50,Heavy percentage
+12,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,22,,50,Heavy percentage
+12,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,4,,50,Heavy percentage
+12,2014,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,5,,50,Heavy percentage
+1,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,43,Heavy percentage
+1,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,7,,43,Heavy percentage
+1,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,10,,43,Heavy percentage
+1,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,43,Heavy percentage
+1,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,23,,43,Heavy percentage
+1,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,7,,43,Heavy percentage
+1,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,1,,43,Heavy percentage
+2,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,50,Heavy percentage
+2,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,5,,50,Heavy percentage
+2,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,9,,50,Heavy percentage
+2,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,4,,50,Heavy percentage
+2,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,21,,50,Heavy percentage
+2,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,9,,50,Heavy percentage
+2,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,1,,50,Heavy percentage
+3,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,47,Heavy percentage; maintenance
+3,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,1,,47,Heavy percentage; maintenance
+3,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,12,,47,Heavy percentage; maintenance
+3,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,3,,47,Heavy percentage; maintenance
+3,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,26,,47,Heavy percentage; maintenance
+3,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,5,,47,Heavy percentage; maintenance
+3,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,3,,47,Heavy percentage; maintenance
+4,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,51,Heavy percentage
+4,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,6,,51,Heavy percentage
+4,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,10,,51,Heavy percentage
+4,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,51,Heavy percentage
+4,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,27,,51,Heavy percentage
+4,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,6,,51,Heavy percentage
+4,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,2,,51,Heavy percentage
+5,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,54,Heavy percentage
+5,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,8,,54,Heavy percentage
+5,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,13,,54,Heavy percentage
+5,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,54,Heavy percentage
+5,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,28,,54,Heavy percentage
+5,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,5,,54,Heavy percentage
+5,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,54,Heavy percentage
+6,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,50,Heavy percentage
+6,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,8,,50,Heavy percentage
+6,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,9,,50,Heavy percentage
+6,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,3,,50,Heavy percentage
+6,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,24,,50,Heavy percentage
+6,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,2,,50,Heavy percentage
+6,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,4,,50,Heavy percentage
+7,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,50,Heavy percentage; maintenance
+7,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,9,,50,Heavy percentage; maintenance
+7,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,9,,50,Heavy percentage; maintenance
+7,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,1,,50,Heavy percentage; maintenance
+7,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,29,,50,Heavy percentage; maintenance
+7,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,4,,50,Heavy percentage; maintenance
+7,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,1,,50,Heavy percentage; maintenance
+8,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,51,Heavy percentage; maintenance
+8,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,8,,51,Heavy percentage; maintenance
+8,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,9,,51,Heavy percentage; maintenance
+8,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,51,Heavy percentage; maintenance
+8,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,33,,51,Heavy percentage; maintenance
+8,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,1,,51,Heavy percentage; maintenance
+8,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,2,,51,Heavy percentage; maintenance
+9,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,46,Heavy percentage; maintenance
+9,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,9,,46,Heavy percentage; maintenance
+9,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,4,,46,Heavy percentage; maintenance
+9,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,46,Heavy percentage; maintenance
+9,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,30,,46,Heavy percentage; maintenance
+9,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,2,,46,Heavy percentage; maintenance
+9,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,4,,46,Heavy percentage; maintenance
+10,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,51,Heavy percentage
+10,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,9,,51,Heavy percentage
+10,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,6,,51,Heavy percentage
+10,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,51,Heavy percentage
+10,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,31,,51,Heavy percentage
+10,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,2,,51,Heavy percentage
+10,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,2,,51,Heavy percentage
+11,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,51,Heavy percentage; maintenance
+11,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,9,,51,Heavy percentage; maintenance
+11,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,8,,51,Heavy percentage; maintenance
+11,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,51,Heavy percentage; maintenance
+11,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,29,,51,Heavy percentage; maintenance
+11,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,3,,51,Heavy percentage; maintenance
+11,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,51,Heavy percentage; maintenance
+12,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,45,Heavy percentage; maintenance
+12,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,8,,45,Heavy percentage; maintenance
+12,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,8,,45,Heavy percentage; maintenance
+12,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,2,,45,Heavy percentage; maintenance
+12,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,24,,45,Heavy percentage; maintenance
+12,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,8,,45,Heavy percentage; maintenance
+12,2015,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,45,Heavy percentage; maintenance
+1,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,49,Heavy percentage
+1,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,8,,49,Heavy percentage
+1,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,9,,49,Heavy percentage
+1,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,5,,49,Heavy percentage
+1,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,25,,49,Heavy percentage
+1,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,4,,49,Heavy percentage
+1,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,49,Heavy percentage
+2,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,50,Heavy percentage
+2,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,6,,50,Heavy percentage
+2,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,11,,50,Heavy percentage
+2,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,50,Heavy percentage
+2,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,31,,50,Heavy percentage
+2,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,1,,50,Heavy percentage
+2,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,50,Heavy percentage
+3,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,49,Heavy percentage; maintenance
+3,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,8,,49,Heavy percentage; maintenance
+3,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,8,,49,Heavy percentage; maintenance
+3,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,49,Heavy percentage; maintenance
+3,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,29,,49,Heavy percentage; maintenance
+3,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,4,,49,Heavy percentage; maintenance
+3,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,2,,49,Heavy percentage; maintenance
+4,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,51,Heavy percentage
+4,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,9,,51,Heavy percentage
+4,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,8,,51,Heavy percentage
+4,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,51,Heavy percentage
+4,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,31,,51,Heavy percentage
+4,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,5,,51,Heavy percentage
+4,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,1,,51,Heavy percentage
+5,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,51,Heavy percentage
+5,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,8,,51,Heavy percentage
+5,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,5,,51,Heavy percentage
+5,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,1,,51,Heavy percentage
+5,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,34,,51,Heavy percentage
+5,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,4,,51,Heavy percentage
+5,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,51,Heavy percentage
+6,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,51,Heavy percentage
+6,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,6,,51,Heavy percentage
+6,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,3,,51,Heavy percentage
+6,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,1,,51,Heavy percentage
+6,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,35,,51,Heavy percentage
+6,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,2,,51,Heavy percentage
+6,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,51,Heavy percentage
+7,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,53,Heavy percentage
+7,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,9,,53,Heavy percentage
+7,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,10,,53,Heavy percentage
+7,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,53,Heavy percentage
+7,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,33,,53,Heavy percentage
+7,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,3,,53,Heavy percentage
+7,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,53,Heavy percentage
+8,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,50,Heavy percentage; maintenance
+8,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,9,,50,Heavy percentage; maintenance
+8,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,10,,50,Heavy percentage; maintenance
+8,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,50,Heavy percentage; maintenance
+8,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,32,,50,Heavy percentage; maintenance
+8,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,3,,50,Heavy percentage; maintenance
+8,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,50,Heavy percentage; maintenance
+9,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,54,Heavy percentage
+9,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,9,,54,Heavy percentage
+9,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,9,,54,Heavy percentage
+9,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,1,,54,Heavy percentage
+9,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,31,,54,Heavy percentage
+9,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,1,,54,Heavy percentage
+9,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,54,Heavy percentage
+10,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,45,Maintenance
+10,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,9,,45,Maintenance
+10,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,8,,45,Maintenance
+10,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,45,Maintenance
+10,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,23,,45,Maintenance
+10,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,5,,45,Maintenance
+10,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,45,Maintenance
+11,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,48,Heavy percentage; carry over
+11,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,9,,48,Heavy percentage; carry over
+11,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,8,,48,Heavy percentage; carry over
+11,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,48,Heavy percentage; carry over
+11,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,28,,48,Heavy percentage; carry over
+11,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,6,,48,Heavy percentage; carry over
+11,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,48,Heavy percentage; carry over
+12,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,46,Heavy percentage; maintenance
+12,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,9,,46,Heavy percentage; maintenance
+12,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,8,,46,Heavy percentage; maintenance
+12,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,46,Heavy percentage; maintenance
+12,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,24,,46,Heavy percentage; maintenance
+12,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,5,,46,Heavy percentage; maintenance
+12,2016,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,46,Heavy percentage; maintenance
+1,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,48,Heavy percentage; maintenance
+1,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,13,,48,Heavy percentage; maintenance
+1,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,8,,48,Heavy percentage; maintenance
+1,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,48,Heavy percentage; maintenance
+1,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,24,,48,Heavy percentage; maintenance
+1,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,2,,48,Heavy percentage; maintenance
+1,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,1,,48,Heavy percentage; maintenance
+2,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,52,Heavy percentage
+2,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,11,,52,Heavy percentage
+2,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,6,,52,Heavy percentage
+2,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,52,Heavy percentage
+2,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,26,,52,Heavy percentage
+2,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,9,,52,Heavy percentage
+2,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,1,,52,Heavy percentage
+3,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,47,Heavy percentage; carry over
+3,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,13,,47,Heavy percentage; carry over
+3,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,6,,47,Heavy percentage; carry over
+3,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,1,,47,Heavy percentage; carry over
+3,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,24,,47,Heavy percentage; carry over
+3,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,3,,47,Heavy percentage; carry over
+3,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,47,Heavy percentage; carry over
+4,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,49,Heavy percentage
+4,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,11,,49,Heavy percentage
+4,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,7,,49,Heavy percentage
+4,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,49,Heavy percentage
+4,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,26,,49,Heavy percentage
+4,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,4,,49,Heavy percentage
+4,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,49,Heavy percentage
+5,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,52,Heavy percentage
+5,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,11,,52,Heavy percentage
+5,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,6,,52,Heavy percentage
+5,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,52,Heavy percentage
+5,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,29,,52,Heavy percentage
+5,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,5,,52,Heavy percentage
+5,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,52,Heavy percentage
+6,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,44,Maintenance
+6,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,11,,44,Maintenance
+6,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,6,,44,Maintenance
+6,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,44,Maintenance
+6,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,26,,44,Maintenance
+6,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,3,,44,Maintenance
+6,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,1,,44,Maintenance
+7,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,52,Heavy percentage
+7,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,12,,52,Heavy percentage
+7,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,7,,52,Heavy percentage
+7,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,1,,52,Heavy percentage
+7,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,25,,52,Heavy percentage
+7,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,4,,52,Heavy percentage
+7,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,52,Heavy percentage
+8,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,48,Heavy percentage; carry over
+8,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,12,,48,Heavy percentage; carry over
+8,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,7,,48,Heavy percentage; carry over
+8,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,48,Heavy percentage; carry over
+8,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,30,,48,Heavy percentage; carry over
+8,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,2,,48,Heavy percentage; carry over
+8,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,48,Heavy percentage; carry over
+9,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,55,Heavy percentage
+9,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,12,,55,Heavy percentage
+9,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,7,,55,Heavy percentage
+9,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,55,Heavy percentage
+9,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,27,,55,Heavy percentage
+9,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,4,,55,Heavy percentage
+9,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,2,,55,Heavy percentage
+10,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,44,Heavy percentage; maintenance; carry over
+10,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,11,,44,Heavy percentage; maintenance; carry over
+10,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,7,,44,Heavy percentage; maintenance; carry over
+10,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,44,Heavy percentage; maintenance; carry over
+10,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,28,,44,Heavy percentage; maintenance; carry over
+10,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,1,,44,Heavy percentage; maintenance; carry over
+10,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,1,,44,Heavy percentage; maintenance; carry over
+11,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,51,Heavy percentage
+11,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,11,,51,Heavy percentage
+11,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,6,,51,Heavy percentage
+11,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,51,Heavy percentage
+11,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,27,,51,Heavy percentage
+11,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,4,,51,Heavy percentage
+11,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,51,Heavy percentage
+12,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,49,Heavy percentage
+12,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,9,,49,Heavy percentage
+12,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,7,,49,Heavy percentage
+12,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,49,Heavy percentage
+12,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,24,,49,Heavy percentage
+12,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,8,,49,Heavy percentage
+12,2017,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,49,Heavy percentage
+1,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,42,Heavy percentage; carry over
+1,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,10,,42,Heavy percentage; carry over
+1,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,7,,42,Heavy percentage; carry over
+1,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,3,,42,Heavy percentage; carry over
+1,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,21,,42,Heavy percentage; carry over
+1,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,7,,42,Heavy percentage; carry over
+1,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,42,Heavy percentage; carry over
+2,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,49,Heavy percentage
+2,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,1,,49,Heavy percentage
+2,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,6,,49,Heavy percentage
+2,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,2,,49,Heavy percentage
+2,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,24,,49,Heavy percentage
+2,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,12,,49,Heavy percentage
+2,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,49,Heavy percentage
+3,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,46,Heavy percentage
+3,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,2,,46,Heavy percentage
+3,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,6,,46,Heavy percentage
+3,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,46,Heavy percentage
+3,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,29,,46,Heavy percentage
+3,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,10,,46,Heavy percentage
+3,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,46,Heavy percentage
+4,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,47,Heavy percentage
+4,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,7,,47,Heavy percentage
+4,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,2,,47,Heavy percentage
+4,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,47,Heavy percentage
+4,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,24,,47,Heavy percentage
+4,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,14,,47,Heavy percentage
+4,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,47,Heavy percentage
+5,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,49,Heavy percentage; carry over
+5,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,8,,49,Heavy percentage; carry over
+5,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,1,,49,Heavy percentage; carry over
+5,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,49,Heavy percentage; carry over
+5,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,25,,49,Heavy percentage; carry over
+5,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,12,,49,Heavy percentage; carry over
+5,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,49,Heavy percentage; carry over
+6,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,46,Carry over; maintenance
+6,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,11,,46,Carry over; maintenance
+6,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,1,,46,Carry over; maintenance
+6,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,46,Carry over; maintenance
+6,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,28,,46,Carry over; maintenance
+6,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,2,,46,Carry over; maintenance
+6,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,4,,46,Carry over; maintenance
+7,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,46,Heavy percentage
+7,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,9,,46,Heavy percentage
+7,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,5,,46,Heavy percentage
+7,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,46,Heavy percentage
+7,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,23,,46,Heavy percentage
+7,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,10,,46,Heavy percentage
+7,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,1,,46,Heavy percentage
+8,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,48,Heavy percentage; carry over
+8,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,10,,48,Heavy percentage; carry over
+8,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,6,,48,Heavy percentage; carry over
+8,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,48,Heavy percentage; carry over
+8,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,23,,48,Heavy percentage; carry over
+8,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,7,,48,Heavy percentage; carry over
+8,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,48,Heavy percentage; carry over
+9,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,43,Heavy percentage; carry over
+9,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,9,,43,Heavy percentage; carry over
+9,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,5,,43,Heavy percentage; carry over
+9,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,43,Heavy percentage; carry over
+9,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,24,,43,Heavy percentage; carry over
+9,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,10,,43,Heavy percentage; carry over
+9,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,43,Heavy percentage; carry over
+10,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,45,Heavy percentage; maintenance
+10,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,10,,45,Heavy percentage; maintenance
+10,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,5,,45,Heavy percentage; maintenance
+10,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,45,Heavy percentage; maintenance
+10,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,19,,45,Heavy percentage; maintenance
+10,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,8,,45,Heavy percentage; maintenance
+10,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,45,Heavy percentage; maintenance
+11,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,40,Heavy percentage; maintenance
+11,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,8,,40,Heavy percentage; maintenance
+11,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,4,,40,Heavy percentage; maintenance
+11,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,4,,40,Heavy percentage; maintenance
+11,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,15,,40,Heavy percentage; maintenance
+11,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,12,,40,Heavy percentage; maintenance
+11,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,40,Heavy percentage; maintenance
+12,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,50,Carry over
+12,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,9,,50,Carry over
+12,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,5,,50,Carry over
+12,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,2,,50,Carry over
+12,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,24,,50,Carry over
+12,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,8,,50,Carry over
+12,2018,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,50,Carry over
+1,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,52,Heavy percentage; carry over
+1,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,10.4,,52,Heavy percentage; carry over
+1,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,5.7,,52,Heavy percentage; carry over
+1,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,52,Heavy percentage; carry over
+1,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,33,,52,Heavy percentage; carry over
+1,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,1.4,,52,Heavy percentage; carry over
+1,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0.8,,52,Heavy percentage; carry over
+2,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,53,Heavy percentage
+2,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,10.4,,53,Heavy percentage
+2,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,4.9,,53,Heavy percentage
+2,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,53,Heavy percentage
+2,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,34.2,,53,Heavy percentage
+2,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,1.2,,53,Heavy percentage
+2,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,1.9,,53,Heavy percentage
+3,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,46,Heavy percentage; carry over
+3,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,9.6,,46,Heavy percentage; carry over
+3,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,3.5,,46,Heavy percentage; carry over
+3,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0.6,,46,Heavy percentage; carry over
+3,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,29.1,,46,Heavy percentage; carry over
+3,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,0,,46,Heavy percentage; carry over
+3,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,2.1,,46,Heavy percentage; carry over
+4,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,49,Heavy percentage; carry over; maintenance
+4,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,9.7,,49,Heavy percentage; carry over; maintenance
+4,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,5.1,,49,Heavy percentage; carry over; maintenance
+4,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,1,,49,Heavy percentage; carry over; maintenance
+4,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,28,,49,Heavy percentage; carry over; maintenance
+4,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,5.4,,49,Heavy percentage; carry over; maintenance
+4,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,1.3,,49,Heavy percentage; carry over; maintenance
+5,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,53,Heavy percentage
+5,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,10.7,,53,Heavy percentage
+5,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,5.2,,53,Heavy percentage
+5,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,53,Heavy percentage
+5,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,35.9,,53,Heavy percentage
+5,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,3.1,,53,Heavy percentage
+5,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,53,Heavy percentage
+6,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,47,Heavy percentage
+6,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,9.4,,47,Heavy percentage
+6,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,3.2,,47,Heavy percentage
+6,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,47,Heavy percentage
+6,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,28.9,,47,Heavy percentage
+6,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,4.1,,47,Heavy percentage
+6,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,47,Heavy percentage
+7,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,54,Heavy percentage; carry over
+7,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,10.9,,54,Heavy percentage; carry over
+7,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,5.7,,54,Heavy percentage; carry over
+7,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,54,Heavy percentage; carry over
+7,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,34.4,,54,Heavy percentage; carry over
+7,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,0.8,,54,Heavy percentage; carry over
+7,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,54,Heavy percentage; carry over
+8,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,46,Heavy percentage; carry over; maintenance
+8,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,9.3,,46,Heavy percentage; carry over; maintenance
+8,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,4.5,,46,Heavy percentage; carry over; maintenance
+8,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,46,Heavy percentage; carry over; maintenance
+8,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,30.3,,46,Heavy percentage; carry over; maintenance
+8,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,2.8,,46,Heavy percentage; carry over; maintenance
+8,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0.8,,46,Heavy percentage; carry over; maintenance
+9,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,52,Maintenance
+9,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,9.1,,52,Maintenance
+9,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,4.7,,52,Maintenance
+9,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,52,Maintenance
+9,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,33.8,,52,Maintenance
+9,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,3.8,,52,Maintenance
+9,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,52,Maintenance
+10,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,50,Maintenance
+10,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,10,,50,Maintenance
+10,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,4.9,,50,Maintenance
+10,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,50,Maintenance
+10,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,34.7,,50,Maintenance
+10,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,0,,50,Maintenance
+10,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0.8,,50,Maintenance
+11,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,51,Heavy percentage
+11,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,9.5,,51,Heavy percentage
+11,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,4.3,,51,Heavy percentage
+11,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,51,Heavy percentage
+11,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,32.3,,51,Heavy percentage
+11,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,2.3,,51,Heavy percentage
+11,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0.9,,51,Heavy percentage
+12,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,49,Heavy percentage; maintenance
+12,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,8.9,,49,Heavy percentage; maintenance
+12,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,3.2,,49,Heavy percentage; maintenance
+12,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,49,Heavy percentage; maintenance
+12,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,31.2,,49,Heavy percentage; maintenance
+12,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,5.6,,49,Heavy percentage; maintenance
+12,2019,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,49,Heavy percentage; maintenance
+1,2020,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,46,Heavy percentage; maintenance
+1,2020,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,9,,46,Heavy percentage; maintenance
+1,2020,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,5,,46,Heavy percentage; maintenance
+1,2020,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,46,Heavy percentage; maintenance
+1,2020,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,31,,46,Heavy percentage; maintenance
+1,2020,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,1,,46,Heavy percentage; maintenance
+1,2020,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,46,Heavy percentage; maintenance
+2,2020,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,49,Heavy percentage; maintenance
+2,2020,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,2,,49,Heavy percentage; maintenance
+2,2020,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,2,,49,Heavy percentage; maintenance
+2,2020,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,49,Heavy percentage; maintenance
+2,2020,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,29,,49,Heavy percentage; maintenance
+2,2020,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,9,,49,Heavy percentage; maintenance
+2,2020,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,5,,49,Heavy percentage; maintenance
+3,2020,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,52,Heavy percentage; maintenance
+3,2020,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,3,,52,Heavy percentage; maintenance
+3,2020,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,5,,52,Heavy percentage; maintenance
+3,2020,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,52,Heavy percentage; maintenance
+3,2020,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,31,,52,Heavy percentage; maintenance
+3,2020,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,6,,52,Heavy percentage; maintenance
+3,2020,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,4,,52,Heavy percentage; maintenance
+4,2020,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,47,Heavy percentage; carry over; maintenance
+4,2020,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,5,,47,Heavy percentage; carry over; maintenance
+4,2020,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,4,,47,Heavy percentage; carry over; maintenance
+4,2020,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,47,Heavy percentage; carry over; maintenance
+4,2020,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,29,,47,Heavy percentage; carry over; maintenance
+4,2020,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,4,,47,Heavy percentage; carry over; maintenance
+4,2020,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,5,,47,Heavy percentage; carry over; maintenance
+5,2020,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,47,Heavy percentage; maintenance
+5,2020,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,9,,47,Heavy percentage; maintenance
+5,2020,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,4,,47,Heavy percentage; maintenance
+5,2020,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,47,Heavy percentage; maintenance
+5,2020,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,19,,47,Heavy percentage; maintenance
+5,2020,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,15,,47,Heavy percentage; maintenance
+5,2020,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,47,Heavy percentage; maintenance
+6,2020,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic heavy,0,,47,Maintenance
+6,2020,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,domestic light,8,,47,Maintenance
+6,2020,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Burnaby,49.2685,-122.931,west,intracanada,refined petroleum products,4,,47,Maintenance
+6,2020,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic heavy,0,,47,Maintenance
+6,2020,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Sumas,49.0766,-122.203,south,export,domestic light,25,,47,Maintenance
+6,2020,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic heavy,8,,47,Maintenance
+6,2020,Trans Mountain Pipeline ULC,Trans Mountain Pipeline,Westridge,49.2908,-122.95,west,export,domestic light,0,,47,Maintenance
